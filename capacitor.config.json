@@ -1,0 +1,11 @@
+{
+  "appId": "br.com.cbro.guias",
+  "appName": "Guias CBRO",
+  "webDir": "dist",
+  "android": {
+    "buildOptions": {
+      "keystorePath": "../guias-cbro.keystore",
+      "keystoreAlias": "guias-cbro"
+    }
+  }
+}

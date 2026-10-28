@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Guias CBRO</string>
+    <string name="title_activity_main">Guias CBRO</string>
+    <string name="package_name">br.com.cbro.guias</string>
+    <string name="custom_url_scheme">br.com.cbro.guias</string>
+</resources>
